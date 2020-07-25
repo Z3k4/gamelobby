@@ -1,0 +1,18 @@
+- Rejoindre automatiquement quand un jeu n'implique aucunes selection de rôles (valorant, cs:go, etc..)
+- Permettre aux joueurs d'insérer leurs pseudos d'un jeu
+- Permettre aux joueurs de consulter les statistiques d'un joueur (possible seulement si les deux
+  ont un profil => >setprofil
+
+
+
+
+// Plus tard
+- Faire un panel web affichant les lobby disponibles et les infos qui y sont liées
+
+
+
+//Developpement
+- Modifier la collection lobbylist (table roles) lorsque que quelqu'un rejoint
+- Afficher le nombre de joueur dans un salon / lobby
+
+- Optimisation
